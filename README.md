@@ -1,6 +1,6 @@
 
 # Highcharts-Vue.js# 
-- 使用教程：m[Highcharts+Vue.js 动态获取数据生成图表](http://www.jianshu.com/p/edcdfc21ea45)
+- 使用教程：[Highcharts+Vue.js 动态获取数据生成图表](http://www.jianshu.com/p/edcdfc21ea45)
 
 
 ## 前言 ##
